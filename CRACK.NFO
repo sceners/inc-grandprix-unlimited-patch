@@ -1,0 +1,19 @@
+                              Jake's Crack Notes
+                                      For
+                             Grand Prix Unlimited
+
+  When the doc check appears, type in any number and press enter. Since there
+was no conditional jump before the doc check I had no choice but to leave it
+in. However, since more programmer's are adding a doc check answer
+verification scheme later in the game this works out for the best. I traced
+the doc check in as far as I could so hopefully if there is a verification
+check later in the game this patch will get you past it. If not, please let me
+know and I will get right on it.
+
+J.P.
+6/2/92
+
+P.S.  This will be the last time you will see the annoying Jake.nfo file in
+INC releases. I've figured you've probably seen it enough by now to know my
+stand on things.
+ 
